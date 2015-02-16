@@ -10,7 +10,7 @@ footer {
 
 nav {display: inline-block;
     width: 200px;
-    height: 100%;
+    height: 620px;
     border: 1px solid black;
     background-color: #B0C4DE;
     }
@@ -42,7 +42,7 @@ img { float : left ;
 .corps {display: inline-block;
         border: 1px solid black;
         width: 1110px;
-        height: 100%;
+        height: 620px;
         vertical-align: top;
         float:right;
         background-color: #B0C4DE;
