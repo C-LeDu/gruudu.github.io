@@ -15,6 +15,16 @@ nav {display: inline-block;
     background-color: #B0C4DE;
     }
 
+a {text-decoration: none;
+   color: blue;
+  }
+
+    a:hover {
+       text-decoration: underline;
+       color: blue;
+       font-size : 1em;
+    }
+
 #CV {height: 1030px;}
 
 nav p { font-size:30px;
